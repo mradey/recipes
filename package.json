@@ -4,11 +4,12 @@
   "private": true,
   "homepage": "https://mradey.github.io/recipes",
   "devDependencies": {
-    "gh-pages": "^1.0.0",
+    "gh-pages": "^1.2.0",
     "react-scripts": "1.0.13"
   },
   "dependencies": {
     "firebase": "^6.0.2",
+    "npm": "^6.9.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
